@@ -25,7 +25,7 @@ This project allows users to add tasks, view tasks, and manage a basic task list
 
 ## 📂 Project Structure
 ```
-4 Node (To-Do)/
+ To-Do List/
 │── to-do.js
 │── package.json
 │── package-lock.json
