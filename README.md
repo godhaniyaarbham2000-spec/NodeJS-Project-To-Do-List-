@@ -2,22 +2,18 @@
 
 A simple command-line based To-Do List application built using Node.js.
 This project allows users to add tasks, view tasks, and manage a basic task list directly from the terminal.
----
 
 🚀 Features
 Add new tasks via CLI
 View all added tasks
-Simple menu-driven interface
-Lightweight and fast Node.js program
-Beginner-friendly project
----
+Interactive menu-driven system
+Simple and beginner-friendly Node.js project
+Fast and lightweight CLI application
 🛠️ Tech Stack
 Node.js
 JavaScript (ES Modules)
 Readline module (for CLI input handling)
----
 📂 Project Structure
-
 4 Node (To-Do)/
 │── to-do.js
 │── package.json
@@ -29,6 +25,10 @@ Clone the repository:
 
 git clone https://github.com/your-username/node-todo-cli.git
 cd node-todo-cli
+
+Install dependencies:
+
+npm install
 ▶️ Usage
 
 Run the project:
@@ -49,8 +49,9 @@ Your TO-DO Lists
 1. eat
 2. read
 ⚠️ Notes
-Input must be valid option (1, 2, or 3)
-Tasks are stored temporarily in memory (not saved permanently)
+Tasks are stored temporarily (in memory)
+Data will reset when program restarts
+Enter valid options (1, 2, 3) only
 📌 Future Improvements
 Save tasks in file (JSON / TXT)
 Delete task feature
