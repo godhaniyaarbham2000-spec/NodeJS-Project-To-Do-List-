@@ -65,12 +65,29 @@ Choose an Option: 1
 ENTER THE TASK: eat
 Task added : eat
 
+1: Add a Task
+2: View Tasks
+3: Exit
+Choose an Option: 1
+
+ENTER THE TASK: read
+Task added : read
+
+1: Add a Task
+2: View Tasks
+3: Exit
 Choose an Option: 2
 
 Your TO-DO Lists
 
 1 eat
 2 read
+
+1: Add a Task
+2: View Tasks
+3: Exit
+Choose an Option: 3
+Good bye
 ```
 ---
 
