@@ -25,7 +25,7 @@ This project allows users to add tasks, view tasks, and manage a basic task list
 
 ## 📂 Project Structure
 ```
- To-Do List/
+NodeJS-CLI-Project-To-Do-List/
 │── to-do.js
 │── package.json
 │── package-lock.json
@@ -37,9 +37,11 @@ This project allows users to add tasks, view tasks, and manage a basic task list
 
 Clone the repository:
 ```
-git clone https://github.com/your-username/node-todo-cli.git
-
-cd node-todo-cli
+git clone https://github.com/godhaniyaarbham2000-spec/NodeJS-CLI-Project-To-Do-List.git
+```
+Go to Project folder
+```
+cd NodeJS-CLI-Project-To-Do-List
 ```
 Install dependencies:
 ```
