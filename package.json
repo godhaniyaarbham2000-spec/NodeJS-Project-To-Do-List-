@@ -1,5 +1,5 @@
 {
-  "name": "node-todo-cli",
+  "name": "nodejs-cli-project-to-do-list",
   "version": "1.0.0",
   "type": "module",
   "main": "to-do.js",
