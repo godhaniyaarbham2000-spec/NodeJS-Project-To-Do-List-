@@ -1,7 +1,7 @@
 # 📝 To-Do List CLI (Node.js Project)
 
 A simple command-line based To-Do List application built using Node.js.  
-This project allows users to add tasks, view tasks, and manage a basic task list directly from the terminal.
+This project allows users to add tasks, view tasks, and manage a basic task list directly from the terminal. 
 
 ---
 
